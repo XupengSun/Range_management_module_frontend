@@ -38,3 +38,4 @@
 
 ## 详细设计
 
+详细设计见 [总结文档](https://github.com/XupengSun/Range_management_module_frontend/blob/main/Summary_Docs.pdf) 根目录下的Summary_Docs.pdf 文件
